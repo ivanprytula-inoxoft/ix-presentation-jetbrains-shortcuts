@@ -2,7 +2,7 @@
 
 Jump to a file without using the Project Tool and your mouse.
 
-- Navigate to File (Shift-Ctrl-N Win/Linux, Shift-Cmd-O macOS)
+- Navigate to Files (Shift-Ctrl-N Win/Linux, Shift-Cmd-O macOS)
 
 - Look for ``e01``...opens file with cursor on last location
 

@@ -4,7 +4,7 @@ From the Recent Files popup, open one of the IDE tool windows.
 
 - Let's get to the Terminal, without mouse
 
-- Recent Files (Ctrl-E or Cmd-E)
+- Recent Files (Ctrl-E Win/Linux or Cmd-E macOS)
 
     - Left column shows tools, not files
 

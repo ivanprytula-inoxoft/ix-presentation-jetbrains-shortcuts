@@ -4,7 +4,7 @@ import math
 class Human:
     current_wage: float
     legs = 2
-    hands = 2
+    hands_clean = 2
     head = 1
     name = "programmer"
 
