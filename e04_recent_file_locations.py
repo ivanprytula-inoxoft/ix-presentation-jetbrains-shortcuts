@@ -9,7 +9,6 @@ Use Recent Files to quickly jump to last-visited file.
 
 Use Recent Locations to quickly jump to last-visited code in files.
 - Ctrl-Shift-E Win/Linux or Shift-Cmd-E macOS
-
 """
 
 
