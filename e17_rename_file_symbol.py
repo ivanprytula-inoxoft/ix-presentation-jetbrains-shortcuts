@@ -3,7 +3,7 @@
 Change your mind on a file name and the IDE makes all the changes for you.
 - Activate navbar, select ``models.py``
 - Refactor -> Rename to ``model.py``
-- See the import below is changed, as is VCS
+- See the import below is changed
 - Undo to put it back
 
 Change a variable name, class name, or other symbol, across the project.

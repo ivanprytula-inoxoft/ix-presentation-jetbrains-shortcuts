@@ -12,7 +12,7 @@ Skip memorizing keyboard shortcuts and speed search for actions instead.
 
 3. Search 'Pyt' to find 'Python is cool'
 
-- Also for preferences, e.g. `python import`
+- Also for preferences, e.g. `import`
 
 
 Search Everywhere
@@ -26,4 +26,5 @@ def e01_find_action():
 
 
 if __name__ == '__main__':
+    # execute only if run as a script
     e01_find_action()

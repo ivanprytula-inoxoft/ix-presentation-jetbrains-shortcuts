@@ -8,7 +8,8 @@ Use the keyboard to move a line or selection up or down in your file.
 - Dumb way: select line, cut, paste
 
 - Single-line: Use Move Line Up
-  (Shift-Alt-Up/Down Win/Linux, Alt-Shift-Up/Down macOS)
+  # TODO: please, double check for macOS
+  (Ctrl-Shift-Up/Down Win/Linux, Ctrl-Shift-Up/Down macOS)
 - Block: Use keyboard to make/extend selection, then same
 
 - *** One more useful shortcut ```Join Lines``` Ctrl-Shift-J

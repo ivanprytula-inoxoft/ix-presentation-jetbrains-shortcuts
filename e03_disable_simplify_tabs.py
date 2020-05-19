@@ -6,7 +6,7 @@ Save space and stay keyboard-centric by turning off the tabs.
 
 - Preferences | Editor | General | Editor Tabs | Placement -> None
 
-- Or Find Action | tab pl no -> Enter
+- Or Find Action | tab co -> Enter
 
 - My Personal Choice: Find Action, tab c -> Enter
     + Use small fonts for labels
